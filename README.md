@@ -61,7 +61,3 @@ Before running the project, ensure that the following dependencies are installed
 3. The app will provide feedback if the guess is too high, too low, or correct.
 4. Your score decreases with each wrong guess. Try to maintain a high score!
 5. Click 'Again!' to reset the game and try again.
-
----
-
-Let me know if you'd like any adjustments!
